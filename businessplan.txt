@@ -1,0 +1,61 @@
+Angebot im Netz (Konkurrenzanalyse)
+====================================
+
+http://www.neurotechnology.com - SDK
+http://www.visitron.de/ - High Performance Microscopy for Life Sciences
+
+
+Kunden
+=======
+
+https://hci.iwr.uni-heidelberg.de/links/german_vision - German Computer Vision Research Groups and Companies
+ Viele Akedemische Institute und Firmen
+
+http://www.visitron.de/ - *** High Performance Microscopy for Life Sciences
+http://www.definiens.com  - **** Kein produkt, gute vermarktung
+http://www.mevis.de/ - ** Krebs
+http://www.philips.de/healthcare
+http://www.pattern-recognition-company.com/machine-vision/medical-image-processing.html - *** Cells, Tissues
+http://www.sci-vis.de/ - Rekonstruktion
+https://www.labortechnik.com/de/analysis-software-visionworks2d - * Mikroskopie
+http://www.leica-microsystems.com/home/
+http://www.intas.de/produktuebersicht - ** Gerätehersteller
+https://www.zeiss.de/mikroskopie/home.html
+https://www.keyence.de
+http://www.hitachi-hightech.com
+http://www.xion-medical.com/de/komponenten/divas-software/
+https://www.raytrix.de/produkte/
+http://www.iba-ag.com/de/produkte/
+
+Angebot
+========
+
+Automatische Bildaufnahme
+ -Autofokussierung
+ -Automatische Helligkeitsregelung
+ -Automatische Erkennung von Fremdpartikeln
+ -Aufnahme von großen Flächen in Hochauflösung (Tissues)
+
+Bildverbesserung
+ -Kamerakalibrierung
+ -Schärfung
+
+
+Bildauswertung
+ -Objekterkennung (Zellen, Mitosen, Organellen)
+ -Positiv/Negativ-erkennung anhand der Bildmerkmale
+ -End-Point-Titer Schätzung
+ -Mustererkennung
+ -Klassifizierung und Objektmarkierung
+ -Quantifizierung
+
+
+Qualitätskontrolle
+ -Automatische Erkennung von Änderungen hinsichtlich
+  -Helligkeit
+  -Schärfegrad
+  -Strukturen
+  -Teksturen
+
+Ansprahe
+========
